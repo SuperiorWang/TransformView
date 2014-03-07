@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>587659BB-4AD3-449F-A756-58D850AC92DC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FanzhuanView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>13D450D3-50ED-4BB7-A4E4-A9E789E6AA77</key>
+		<string>https://github.com/wikimo/MyNote.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FanzhuanView/FanzhuanView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>13D450D3-50ED-4BB7-A4E4-A9E789E6AA77</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wikimo/MyNote.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>13D450D3-50ED-4BB7-A4E4-A9E789E6AA77</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>13D450D3-50ED-4BB7-A4E4-A9E789E6AA77</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
